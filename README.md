@@ -1,1 +1,1 @@
-### Digital Desing Project in CSE 232 Course.
+### Digital Desing Projects in CSE 232 Course.
