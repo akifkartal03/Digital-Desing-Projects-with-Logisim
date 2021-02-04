@@ -1,1 +1,1 @@
-### Digital Desing Projects in CSE 232 Course.
+### Digital Desing Projects in CSE232 Logic Circuits And Design Course.
