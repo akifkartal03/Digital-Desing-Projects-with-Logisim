@@ -1,1 +1,1 @@
-### CSE 234 Online Lab Assignments.
+### CSE234 Logic Circuits And Design Lab Course Lab Assignments.
